@@ -33,8 +33,8 @@ touches h,j,k,l permettent de se déplacer dans le texte, respectivement à
 gauche, bas, haut, droite. Ces commandes ne sont accessibles que dans le mode
 commande. Quelques autres commandes pour "survivre avec vi/Vim" :
 
-- deux touches permettent d'entrer en mode insertion : `a` (append) et `i`
-  (insert) ;
+- trois touches permettent d'entrer en mode insertion : `a` (append), `i`
+  (insert) et 'o' (open)
 - une fois l'édition terminée, il est possible de retourner en mode commande
   via la touche "Echap" ;
 - pour quitter, la commande est ":q", mais ne fait pas de sauvergarde ;
